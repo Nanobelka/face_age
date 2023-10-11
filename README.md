@@ -28,3 +28,9 @@ Project for [Yandex.Praktikum](https://github.com/Nanobelka/Yandex_Praktikum)
 
 Пример исходных изображений
 ![Пример исходных изображений](https://github.com/Nanobelka/face_age/blob/main/images/example_1_faces_example.png)
+
+Распределение возраста в данных
+![Распределение возраста в данных](https://github.com/Nanobelka/face_age/blob/main/images/example_2_age_distribution.png)
+
+Динамика метрик при обучении нейронной сети
+![Динамика метрик при обучении нейронной сети](https://github.com/Nanobelka/face_age/blob/main/images/example_3_model_train_results.png)
