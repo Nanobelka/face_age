@@ -23,3 +23,8 @@ Project for [Yandex.Praktikum](https://github.com/Nanobelka/Yandex_Praktikum)
 - подготовить данные к обучению;
 - обучить нейронную сеть и оценить ее качество;
 - сформулировать рекомендации для дальнейшего развития проекта.
+
+### Примеры визуализаций
+
+Пример исходных изображений
+![Пример исходных изображений](https://github.com/Nanobelka/face_age/blob/main/images/example_1_faces_example.png)
